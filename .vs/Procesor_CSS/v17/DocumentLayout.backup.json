@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Procesor_CSS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:Procesor_CSS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CSS_Parsing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:CSS_Parsing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Attributes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:Attributes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\MainList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:MainList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CommandsHandling.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:CommandsHandling.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CSS_Parsing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:CSS_Parsing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CommandsHandling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:CommandsHandling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\MainList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:MainList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Attributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:Attributes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Selectors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:Selectors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BB0C6B-D185-44CB-94D9-586E44EB650E}|Procesor_CSS.vcxproj|solutionrelative:String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSS_Parsing.cpp",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CSS_Parsing.cpp",
+              "RelativeDocumentMoniker": "CSS_Parsing.cpp",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CSS_Parsing.cpp",
+              "RelativeToolTip": "CSS_Parsing.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T01:01:10.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Block.cpp",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Block.cpp",
+              "RelativeDocumentMoniker": "Block.cpp",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Block.cpp",
+              "RelativeToolTip": "Block.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T01:01:10.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainList.cpp",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\MainList.cpp",
+              "RelativeDocumentMoniker": "MainList.cpp",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\MainList.cpp",
+              "RelativeToolTip": "MainList.cpp",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T01:01:10.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandsHandling.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CommandsHandling.h",
+              "RelativeDocumentMoniker": "CommandsHandling.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CommandsHandling.h",
+              "RelativeToolTip": "CommandsHandling.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Block.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Block.h",
+              "RelativeDocumentMoniker": "Block.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Block.h",
+              "RelativeToolTip": "Block.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainList.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\MainList.h",
+              "RelativeDocumentMoniker": "MainList.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\MainList.h",
+              "RelativeToolTip": "MainList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\List.h",
+              "RelativeDocumentMoniker": "List.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\List.h",
+              "RelativeToolTip": "List.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANgAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CSS_Parsing.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CSS_Parsing.h",
+              "RelativeDocumentMoniker": "CSS_Parsing.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CSS_Parsing.h",
+              "RelativeToolTip": "CSS_Parsing.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "String.cpp",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\String.cpp",
+              "RelativeDocumentMoniker": "String.cpp",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\String.cpp",
+              "RelativeToolTip": "String.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAHIAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T01:01:11.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Procesor_CSS.cpp",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Procesor_CSS.cpp",
+              "RelativeDocumentMoniker": "Procesor_CSS.cpp",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Procesor_CSS.cpp",
+              "RelativeToolTip": "Procesor_CSS.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T01:01:11.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attributes.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Attributes.h",
+              "RelativeDocumentMoniker": "Attributes.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Attributes.h",
+              "RelativeToolTip": "Attributes.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandsHandling.cpp",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CommandsHandling.cpp",
+              "RelativeDocumentMoniker": "CommandsHandling.cpp",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\CommandsHandling.cpp",
+              "RelativeToolTip": "CommandsHandling.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T01:01:11.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attributes.cpp",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Attributes.cpp",
+              "RelativeDocumentMoniker": "Attributes.cpp",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Attributes.cpp",
+              "RelativeToolTip": "Attributes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T01:01:11.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Selectors.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Selectors.h",
+              "RelativeDocumentMoniker": "Selectors.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\Selectors.h",
+              "RelativeToolTip": "Selectors.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "String.h",
+              "DocumentMoniker": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\String.h",
+              "RelativeDocumentMoniker": "String.h",
+              "ToolTip": "D:\\programy\\3-AISD_PROJEKTY\\Procesor_CSS\\String.h",
+              "RelativeToolTip": "String.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T01:01:11.493Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿  Attributes.cpp
+  Block.cpp
+  CommandsHandling.cpp
+  MainList.cpp
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\MainList.cpp(166,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\MainList.cpp(172,15): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Procesor_CSS.cpp
+  CSS_Parsing.cpp
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(9,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(21,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(29,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(73,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(85,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(97,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(111,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(135,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(142,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\CSS_Parsing.cpp(185,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Selectors.cpp
+  String.cpp
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\String.cpp(57,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\String.cpp(101,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\String.cpp(103,19): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Generating Code...
+D:\programy\3-AISD_PROJEKTY\Procesor_CSS\MainList.cpp(59,1): warning C4172: returning address of local variable or temporary : sect
+  Procesor_CSS.vcxproj -> D:\programy\3-AISD_PROJEKTY\Procesor_CSS\x64\Debug\Procesor_CSS.exe
